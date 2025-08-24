@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\ipassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\ipassengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:services\\passengerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\repositories\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:repositories\\passengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\ipassengerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:controllers\\passengercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\dtos\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:dtos\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96500F9A-E7A0-4D8E-8AB0-EE85EFE73060}|..\\TestProject-Moq\\TestProject-Moq.csproj|d:\\railway reservation api project\\testproject-moq\\passengerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Migrations\\20250824164258_initlatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250824164258_initlatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:models\\train.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96500F9A-E7A0-4D8E-8AB0-EE85EFE73060}|..\\TestProject-Moq\\TestProject-Moq.csproj|d:\\railway reservation api project\\testproject-moq\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\itokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\itokengenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:controllers\\traincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\services\\trainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:services\\trainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\repositories\\trainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:repositories\\trainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\itrainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\itrainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\itrainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\itrainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\models\\railwayreservationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:models\\railwayreservationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\migrations\\20250821101212_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:migrations\\20250821101212_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:dtos\\bookingdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\dtos\\traindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:dtos\\traindtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|d:\\railway reservation api project\\railway_reservation_api_project\\dtos\\passengerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAAA9F3F-EF92-4ACB-B924-641D1CF500CF}|Railway_Reservation_API_Project.csproj|solutionrelative:dtos\\passengerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "searchResultDto.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\searchResultDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\searchResultDto.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\searchResultDto.cs",
+              "RelativeToolTip": "DTOs\\searchResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T17:26:44.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PassengerRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\PassengerRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PassengerRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\PassengerRepository.cs",
+              "RelativeToolTip": "Repositories\\PassengerRepository.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:38:57.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPassengerRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IPassengerRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPassengerRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IPassengerRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPassengerRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:40:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPassengerService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IPassengerService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPassengerService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IPassengerService.cs",
+              "RelativeToolTip": "Interfaces\\IPassengerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:40:32.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassengerController.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\PassengerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PassengerController.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\PassengerController.cs",
+              "RelativeToolTip": "Controllers\\PassengerController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAEwEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:57:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassengerService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\PassengerService.cs",
+              "RelativeDocumentMoniker": "Services\\PassengerService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\PassengerService.cs",
+              "RelativeToolTip": "Services\\PassengerService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T13:31:03.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookingService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IBookingService.cs",
+              "RelativeToolTip": "Interfaces\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:43:48.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:39:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:22:24.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "Services\\BookingService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\BookingService.cs",
+              "RelativeToolTip": "Services\\BookingService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:38:35.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IBookingRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IBookingRepository.cs",
+              "RelativeToolTip": "Interfaces\\IBookingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:43:29.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "Models\\Passenger.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Passenger.cs",
+              "RelativeToolTip": "Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:50:18.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PassengerServiceTests.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\TestProject-Moq\\PassengerServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject-Moq\\PassengerServiceTests.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\TestProject-Moq\\PassengerServiceTests.cs",
+              "RelativeToolTip": "..\\TestProject-Moq\\PassengerServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:19:36.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250824164258_initlatest.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Migrations\\20250824164258_initlatest.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250824164258_initlatest.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Migrations\\20250824164258_initlatest.cs",
+              "RelativeToolTip": "Migrations\\20250824164258_initlatest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T16:42:58.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Train.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Train.cs",
+              "RelativeDocumentMoniker": "Models\\Train.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Train.cs",
+              "RelativeToolTip": "Models\\Train.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:06:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:04:32.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TrainService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\TrainService.cs",
+              "RelativeDocumentMoniker": "Services\\TrainService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\TrainService.cs",
+              "RelativeToolTip": "Services\\TrainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:38:01.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:02:58.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T06:44:53.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:47:53.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\TestProject-Moq\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject-Moq\\UnitTest1.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\TestProject-Moq\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject-Moq\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:09:44.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITokenGenerate.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITokenGenerate.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenGenerate.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITokenGenerate.cs",
+              "RelativeToolTip": "Interfaces\\ITokenGenerate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:48:45.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T13:00:05.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:20:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITrainRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITrainRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITrainRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITrainRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITrainRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:41:08.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITrainService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITrainService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITrainService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\ITrainService.cs",
+              "RelativeToolTip": "Interfaces\\ITrainService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:41:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TrainRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\TrainRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TrainRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\TrainRepository.cs",
+              "RelativeToolTip": "Repositories\\TrainRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:39:19.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T10:02:57.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TrainController.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\TrainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainController.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\TrainController.cs",
+              "RelativeToolTip": "Controllers\\TrainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T17:28:53.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:06.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:51:44.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:19:46.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RailwayReservationContext.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\RailwayReservationContext.cs",
+              "RelativeDocumentMoniker": "Models\\RailwayReservationContext.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Models\\RailwayReservationContext.cs",
+              "RelativeToolTip": "Models\\RailwayReservationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:53:43.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDtos.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\UserDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDtos.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\UserDtos.cs",
+              "RelativeToolTip": "DTOs\\UserDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:10:45.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:18:22.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250821101212_init.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Migrations\\20250821101212_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250821101212_init.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\Migrations\\20250821101212_init.cs",
+              "RelativeToolTip": "Migrations\\20250821101212_init.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T10:12:12.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingDtos.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\BookingDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\BookingDtos.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\BookingDtos.cs",
+              "RelativeToolTip": "DTOs\\BookingDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:24:55.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TrainDtos.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\TrainDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\TrainDtos.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\TrainDtos.cs",
+              "RelativeToolTip": "DTOs\\TrainDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:22:02.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PassengerDtos.cs",
+              "DocumentMoniker": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\PassengerDtos.cs",
+              "RelativeDocumentMoniker": "DTOs\\PassengerDtos.cs",
+              "ToolTip": "D:\\Railway Reservation API Project\\Railway_Reservation_API_Project\\DTOs\\PassengerDtos.cs",
+              "RelativeToolTip": "DTOs\\PassengerDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T09:19:06.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
